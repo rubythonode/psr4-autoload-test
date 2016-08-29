@@ -1,0 +1,17 @@
+{
+  "name": "appkr/psr4-autoload",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "appkr",
+      "email": "juwonkim@me.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}
